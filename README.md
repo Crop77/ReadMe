@@ -1,4 +1,4 @@
-# ReadMe
+# My Game Design Summary
 Welcome to my Game Design Portfolio.
 I specialize in gameplay mechanics, AI behaviour, economy loops, and level design, using Unity as my primary engine.
 This portfolio showcases the three complete games I've designed and developed from scratch.
