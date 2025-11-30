@@ -1,9 +1,8 @@
 # ReadMe
-Quick Summary of Games I designed
-
 Welcome to my Game Design Portfolio.
 I specialize in gameplay mechanics, AI behaviour, economy loops, and level design, using Unity as my primary engine.
 This portfolio showcases the three complete games I've designed and developed from scratch.
+
 
 1. Zombie Hunters
 
@@ -11,21 +10,18 @@ Genre: Third-Person Shooter (TPS)
 Platform: Mobile / PC
 Engine: Unity
 
-Overview
-
+Overview:
 Zombie Hunters is a fast-paced TPS where players take down waves of zombies in timer-based levels. Focus is on responsive controls, satisfying combat feedback, and scalable enemy AI.
 
-Key Features
+Key Features:
+a)TPS player controller with movement, aiming, shooting
+b) Impactful visual/audio feedback (particles, muzzle flashes, SFX)
+c) AI zombies with walking, chasing, and attack behaviours
+d) Timer-based levels with increasing difficulty
+e) Level design that allows expansions
 
-TPS player controller with movement, aiming, shooting
 
-Impactful visual/audio feedback (particles, muzzle flashes, SFX)
 
-AI zombies with walking, chasing, and attack behaviours
-
-Timer-based levels with increasing difficulty
-
-Modular level design allowing expansions
 
 2. Stronghold Defense
 
@@ -33,23 +29,19 @@ Genre: Tower Defense / Auto Battler / Strategy
 Platform: PC / Mobile
 Engine: Unity
 
-📝 Overview
-
+Overview:
 A hybrid strategy game mixing tower defense with auto battler mechanics. Features scalable enemy waves, resource economy, and deep unit upgrade systems.
 
-⚙️ Key Systems
+Key Features:
+a) AI for both player and enemy units
+b) Tile-based placement logic with snapping
+c) Unit upgrades with scalable cost curves
+d) Gold-based economy forming the core gameplay loop
+e) Endless-level possibility via config-driven wave generation
+f) Balanced difficulty progression requiring strategic planning
 
-AI for both player and enemy units
 
-Tile-based placement logic with snapping
 
-Unit upgrades with scalable cost curves
-
-Gold-based economy forming the core gameplay loop
-
-Endless-level possibility via config-driven wave generation
-
-Balanced difficulty progression requiring strategic planning
 
 3. LoreMaster
 
@@ -57,42 +49,29 @@ Genre: Trivia / Quiz
 Platform: Mobile
 Engine: Unity
 
-Overview
-
+Overview:
 LoreMaster is a geek-culture trivia game featuring progression tiers, unlockable ranks, and multiple play modes.
 
-Key Features
-
-Dynamic UI with smooth panel transitions
-
-Randomized question & answer systems
-
-Timer pressure, SFX, and screen-tint effects
-
-Gold → Rank Up → Harder Questions progression system
-
-Monetization-ready design structure
+Key Features:
+a) Dynamic UI with smooth panel transitions
+b) Randomized question & answer systems
+c) Timer pressure, SFX, and screen-tint effects
+d) Gold → Rank Up → Harder Questions progression system
+e) Monetization-ready design structure
 
 Additional game modes:
-
 Mixed Category Mode
-
 Eternal Mode (survive as long as you can)
 
-🧰 Technologies & Skills
 
-Unity (URP, Animation, Physics, NavMesh)
 
-C# (Gameplay, AI, OOP architecture)
-
-AI Behaviour Systems
-
-Level Design & Balancing
-
-Game Economy Design
-
-UI/UX Implementation
-
-Audio Integration (SFX, events)
-
-Git & GitHub
+Skillset:
+-Confident grasp for Unity Game Engine (URP, Animation, Physics, NavMesh)
+-C# Scripting (Gameplay, AI, OOP architecture)
+-AI Behaviour Systems
+-Level Design & Balancing
+-Game Economy Design
+-UI/UX Implementation
+-Audio Integration (SFX, events)
+-Git & GitHub
+-
